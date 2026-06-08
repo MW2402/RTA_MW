@@ -1,0 +1,8 @@
+{
+    "dairy": 0,
+    "bakery": 1,
+    "beverages": 2,
+    "snacks": 3,
+    "frozen": 4,
+    "household": 5
+}
